@@ -33,7 +33,8 @@ git push origin develop
 
 
 .
-Spring Boot API's:
+# Spring Boot API's:
+
 **Currency convertor**
 **/api/currency/convert?from=USD&to=INR&amount=100**
 
@@ -45,28 +46,23 @@ Spring Boot API's:
 
 
 
-**Applications**
-**Currency convertor**
-UI :
-**Currency convertor**
+# **Applications**
+# **Currency convertor**
+
 **/api/currency/convert?from=USD&to=INR&amount=100**
 
 <img width="1000" height="866" alt="image" src="https://github.com/user-attachments/assets/628e6c45-1f04-4077-b4d4-00f7129bbde1" />
-
-
 
 
 Response:
 <img width="900" height="400" alt="image" src="https://github.com/user-attachments/assets/46ebc2e2-d684-4e69-8b66-c4631af09dbb" />
 
 
-
-**Live Weather & Forecast**
+# **Live Weather & Forecast**
 
 **http://localhost:8080/weather?lat=12.97&lon=77.59**
 
 <img width="1295" height="820" alt="image" src="https://github.com/user-attachments/assets/8fba9dac-fbff-4c2f-91f0-758dac586dbd" />
-
 
 API Call and Response:
 
@@ -74,7 +70,7 @@ API Call and Response:
 <img width="653" height="228" alt="image" src="https://github.com/user-attachments/assets/e38d1f1e-3441-4550-b12f-d0e722bbeb0d" />
 
 
-**Live Stock Price**
+# **Live Stock Price**
 API: http://localhost:8080/api/stocks?symbol=TCS
 Response: 
 

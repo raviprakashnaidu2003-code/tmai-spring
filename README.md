@@ -31,14 +31,29 @@ or
 git push origin develop
 
 
+
+.
+Spring Boot API's:
+**Currency convertor**
+**/api/currency/convert?from=USD&to=INR&amount=100**
+
+**Live Weather & Forecast**
+**http://localhost:8080/weather?lat=12.97&lon=77.59**
+
+**Live Stock Price**
+**http://localhost:8080/api/stocks?symbol=TCS**
+
+
+
 **Applications**
 **Currency convertor**
 UI :
+**Currency convertor**
+**/api/currency/convert?from=USD&to=INR&amount=100**
+
 <img width="1000" height="866" alt="image" src="https://github.com/user-attachments/assets/628e6c45-1f04-4077-b4d4-00f7129bbde1" />
 
-Spring Boot API's:
 
-**/api/currency/convert?from=USD&to=INR&amount=100**
 
 
 Response:
